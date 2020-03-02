@@ -1,0 +1,16 @@
+baseURL = "Shahar-Levy.github.io"
+theme = "m10c"
+paginate = 5
+
+[params]
+  author = "Shahar Levy"
+  description = "I wanted an outlet too"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/Shahar-Levy"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/TeamLazershark"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shahar-levy/"
