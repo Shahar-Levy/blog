@@ -1,6 +1,5 @@
 
 baseURL = "https://shahar-levy.com/"
-publishDir = "shahar-levy.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Shahar Levy"
